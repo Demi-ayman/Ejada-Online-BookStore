@@ -313,6 +313,10 @@
       "PackagePath": "staticwebassets\\images\\profile\\1cbfedfd-5ad5-42b4-8867-8b4a4d2709a0.jpg"
     },
     {
+      "Id": "D:\\VS Projects\\BookStore\\wwwroot\\images\\profile\\20ef5bf7-510f-4d05-b963-0cae97a4d501.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\20ef5bf7-510f-4d05-b963-0cae97a4d501.jpg"
+    },
+    {
       "Id": "D:\\VS Projects\\BookStore\\wwwroot\\images\\profile\\2456535d-0395-4b10-bd69-617a9bdd961c.jpg",
       "PackagePath": "staticwebassets\\images\\profile\\2456535d-0395-4b10-bd69-617a9bdd961c.jpg"
     },
@@ -381,12 +385,20 @@
       "PackagePath": "staticwebassets\\images\\profile\\d3886f4c-97e1-4f1a-907d-78ed99960a83.jpg"
     },
     {
+      "Id": "D:\\VS Projects\\BookStore\\wwwroot\\images\\profile\\d8790862-46ca-48c5-8abd-e1ff598bf7bf.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\d8790862-46ca-48c5-8abd-e1ff598bf7bf.jpg"
+    },
+    {
       "Id": "D:\\VS Projects\\BookStore\\wwwroot\\images\\profile\\df1005d1-03c9-4e49-8db0-3eb264148d2e.jpg",
       "PackagePath": "staticwebassets\\images\\profile\\df1005d1-03c9-4e49-8db0-3eb264148d2e.jpg"
     },
     {
       "Id": "D:\\VS Projects\\BookStore\\wwwroot\\images\\profile\\eb4a7661-5297-4992-b982-4ac9906cc76d.jpg",
       "PackagePath": "staticwebassets\\images\\profile\\eb4a7661-5297-4992-b982-4ac9906cc76d.jpg"
+    },
+    {
+      "Id": "D:\\VS Projects\\BookStore\\wwwroot\\images\\profile\\f425976b-d0f2-43cd-835a-c3761eef8743.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\f425976b-d0f2-43cd-835a-c3761eef8743.jpg"
     },
     {
       "Id": "D:\\VS Projects\\BookStore\\wwwroot\\images\\review-image1.jpg",
